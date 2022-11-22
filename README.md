@@ -1,5 +1,3 @@
-My personal Protfolio that shows my most recent projects.
-******
 Stack used:
 *React
 *Scss
