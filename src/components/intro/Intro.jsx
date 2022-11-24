@@ -27,7 +27,7 @@ export default function intro() {
           />
           </h3>
         </div>
-        <a href="#protfolio">
+        <a href="#about">
           <img src="assets/down.png" alt="" />
         </a>
       </div>

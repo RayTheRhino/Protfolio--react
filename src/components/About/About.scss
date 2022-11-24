@@ -1,0 +1,55 @@
+@import "../../global.scss";
+
+.about {
+  background-color: #fff;
+  display: flex;
+
+  .left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    .leftContainer {
+      height: 320px;
+      width: 600px;
+      border-radius: 10px;
+      margin-top: 40px;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+
+      p {
+        margin: 10% 5%;
+        font-size: 20px;
+      }
+    }
+  }
+  .vl {
+    border-left: 6px solid $mainColor;
+    margin-top: 34vh;
+    height: 250px;
+  }
+
+  .right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    img {
+      height: 300px;
+      width: 300px;
+      border-radius: 50%;
+    }
+  }
+
+  h1 {
+    font-family: "Fuzzy Bubbles", sans-serif;
+    font-size: 50px;
+    color: black;
+    border-bottom: 4px inset $mainColor;
+  }
+}
