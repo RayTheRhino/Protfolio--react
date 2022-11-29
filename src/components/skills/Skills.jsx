@@ -7,13 +7,21 @@ export default function Protfolio() {
       <div className="container">
         <div className="skill-box">
           <div className="img">
-            <img src="assets/html-5.png" alt="" className="skill-icon" />
+            <img
+              src="assets/html-5.png"
+              alt="html icon img"
+              className="skill-icon"
+            />
             <h3>Html</h3>
           </div>
         </div>
         <div className="skill-box">
           <div className="img">
-            <img src="assets/css-3.png" alt="" className="skill-icon" />
+            <img
+              src="assets/css-3.png"
+              alt="css icon img"
+              className="skill-icon"
+            />
             <h3>Css</h3>
           </div>
         </div>
@@ -25,37 +33,61 @@ export default function Protfolio() {
         </div>
         <div className="skill-box">
           <div className="img">
-            <img src="assets/structure.png" alt="" className="skill-icon" />
+            <img
+              src="assets/structure.png"
+              alt="react icon img"
+              className="skill-icon"
+            />
             <h3>React</h3>
           </div>
         </div>
         <div className="skill-box">
           <div className="img">
-            <img src="assets/node.png" alt="" className="skill-icon" />
+            <img
+              src="assets/node.png"
+              alt="node icon img"
+              className="skill-icon"
+            />
             <h3>NodeJs</h3>
           </div>
         </div>
         <div className="skill-box">
           <div className="img">
-            <img src="assets/mongo.png" alt="" className="skill-icon" />
+            <img
+              src="assets/mongo.png"
+              alt="mongo icon img"
+              className="skill-icon"
+            />
             <h3>MongoDB</h3>
           </div>
         </div>
         <div className="skill-box">
           <div className="img">
-            <img src="assets/github.png" alt="" className="skill-icon" />
+            <img
+              src="assets/github.png"
+              alt="github icon img"
+              className="skill-icon"
+            />
             <h3>GitHub</h3>
           </div>
         </div>
         <div className="skill-box">
           <div className="img">
-            <img src="assets/java.png" alt="" className="skill-icon" />
+            <img
+              src="assets/java.png"
+              alt="java icon img"
+              className="skill-icon"
+            />
             <h3>Java</h3>
           </div>
         </div>
         <div className="skill-box">
           <div className="img">
-            <img src="assets/sass.png" alt="" className="skill-icon" />
+            <img
+              src="assets/sass.png"
+              alt="sass icon img"
+              className="skill-icon"
+            />
             <h3>Scss</h3>
           </div>
         </div>
